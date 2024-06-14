@@ -48,6 +48,14 @@
               "type": "file-tree-view",
               "state": {}
             }
+          },
+          {
+            "id": "504fec79de41299e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -203,6 +211,23 @@
     ],
     "direction": "horizontal",
     "width": 305.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-journey-plugin:Find Journey": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false,
+      "vantage-obsidian:Vantage - Advanced search builder": false
+    }
   },
   "active": "828e17397f6a51f2",
   "lastOpenFiles": [
